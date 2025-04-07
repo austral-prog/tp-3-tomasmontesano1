@@ -6,4 +6,4 @@ def slice_simple():
     b = int((len(texto)/2)+2)
     print(texto[a:b])
     print(texto[0:7])
-slice_simple() 
+
